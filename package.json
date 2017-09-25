@@ -1,0 +1,34 @@
+{
+  "name": "Teans-Special",
+  "version": "0.1.0",
+  "devDependencies": {
+    "csslint-stylish": "0.0.5",
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-concat-css": "^0.3.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-html-validation": "^0.1.18",
+    "grunt-jsdoc": "^2.1.0",
+    "grunt-jslint": "^1.1.14",
+    "grunt-run": "^0.8.0",
+    "grunt-serve": "^0.1.6",
+    "jshint-html-reporter": "^0.2.4",
+    "serve-static": "^1.11.1"
+  },
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt-run": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
