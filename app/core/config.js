@@ -27,8 +27,7 @@ loader(function() {
      */
 
     path = {
-        login: "#login",
-        // register: "#register"
+        login: "#login"
     };
 
     /**
@@ -36,11 +35,7 @@ loader(function() {
      */
 
     routes = {
-        // headerUnauth: "shared/components/header/header-unauth/header-unauth.route",
-        // headerLogged: "shared/components/header/header-logged/header-logged.route",
-        // footer: "shared/components/footer/footer.route",
-        login: "modules/login/login.route",
-        // register: "modules/register/register.route"
+        login: "modules/login/login.route"
     };
 
     /**
@@ -48,13 +43,7 @@ loader(function() {
      */
 
     js = {
-        // routerService: "core/services/router.service",
-        // sessionStorage: "core/services/session-storage",
-        // util: "core/util",
-        // validation: "util/validation",
-        login: "modules/login/login.module",
-        // register: "modules/register/register.module",
-        // config: "core/config"
+        login: "modules/login/login.module"
     };
 
     /**
@@ -62,9 +51,7 @@ loader(function() {
      */
 
     template = {
-        login: "modules/login/login.template.html",
-        // pendingFeedbackRequest: "modules/pending-feedback-request/pending-feedback-request.template.html",
-        // register: "modules/register/register.template.html"
+        login: "modules/login/login.template.html"
     };
 
     /**
@@ -72,9 +59,7 @@ loader(function() {
      */
 
     css = {
-        // editProfile: "modules/edit-profile/edit-profile.style.css",
-        login: "modules/login/login.style.css",
-        // register: "modules/register/register.style.css"
+        login: "modules/login/login.style.css"
     };
 
     /**
